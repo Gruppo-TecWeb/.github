@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" src="profile/tec_web_logo1.png">
+  <img src="profile/tec_web_logo1.png" style="width:160px">
 </p>
 
 <br>
