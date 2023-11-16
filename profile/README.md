@@ -1,4 +1,4 @@
-<p style="display: flex; flex-flow: column; align-items: center">
+<p align="center">
   <img src="profile/tec_web_logo1.png" style="width:160px">
 </p>
 
