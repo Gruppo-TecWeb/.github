@@ -2,9 +2,11 @@
   <img width="400" src="tec_web_logo1.png">
 </p>
 
+<br>
+
 Profilo del gruppo del corso di Tecnologie Web dell'Università degli Studi di Padova A.A. 2023/24
 
-##Membri del gruppo
+## Membri del gruppo
 
 | Cognome      | Nome             
 | :----------- | :--------------  
