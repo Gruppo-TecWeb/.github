@@ -8,9 +8,9 @@ Profilo del gruppo del corso di Tecnologie Web dell'Università degli Studi di P
 
 ## Membri del gruppo
 
-| Cognome      | Nome             
-| :----------- | :--------------  
-| Lewental     | Sebastiano      
-| Benetazzo    | Antonio         
-| Bressan      | Alessandro      
-| Zaupa        | Riccardo        
+| Cognome     | Nome             
+| :-----------| :--------------  
+| Lewental    | Sebastiano      
+| Benetazzo   | Antonio         
+| Bressan     | Alessandro      
+| Zaupa       | Riccardo        
