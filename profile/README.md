@@ -4,7 +4,7 @@
 
 <br>
 
-Profilo del gruppo per lo sviluppo del progetto del corso di <a href="https://didattica.unipd.it/off/2021/LT/SC/SC1167/000ZZ/SCP4065581/N0">Tecnologie Web</a> dell'<a href="https://www.unipd.it/">Università degli Studi di Padova</a> per l'anno accademico 2023/24
+Profilo del gruppo per lo sviluppo del progetto del corso di <a href="https://didattica.unipd.it/off/2021/LT/SC/SC1167/000ZZ/SCP4065581/N0">Tecnologie Web</a> dell'<a href="https://www.unipd.it/">Università degli Studi di Padova</a> A.A. 2023/24
 
 ## Membri del gruppo
 
