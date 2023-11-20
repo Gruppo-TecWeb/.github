@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/tec_web_logo1.png" style="width:160px">
+  <img src="https://github.com/Gruppo-TecWeb/Documenti/blob/master/logo/tec_web_logo1.png" style="width:160px">
 </p>
 
 <h1 style="text-align: center">Gruppo TecWeb</h1>
